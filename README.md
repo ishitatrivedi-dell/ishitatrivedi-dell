@@ -33,21 +33,6 @@
 
 ---
 
-## 🚀 Currently Working On  
-### 🏫 CampusPro – Campus Event Budget & Finance Management System
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="360"/>
-</p>
-
-**Key Features**
-- 💰 Event budget planning  
-- 🧾 Expense tracking & approvals  
-- 🔐 Role-Based Access Control  
-- 📊 Profit / Loss analytics  
-- 📈 Finance-driven decision making  
-
-> Built like a **real production system**, not a demo project.
 
 ---
 
